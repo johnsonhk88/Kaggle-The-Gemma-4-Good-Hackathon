@@ -16,3 +16,4 @@ accelerate
 pillow
 aiohttp
 nest_asyncio
+librosa
