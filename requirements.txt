@@ -17,6 +17,7 @@ pillow
 aiohttp
 nest_asyncio
 librosa
-opencv-python-headless
+# opencv-python-headless
+opencv-python
 ipywidgets
 torchcodec
