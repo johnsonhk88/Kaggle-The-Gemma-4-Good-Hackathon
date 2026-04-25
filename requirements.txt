@@ -6,7 +6,7 @@ pandas
 pyarrow
 pydub
 tensorboard
-mlflow==3.10.1
+mlflow==3.11.1
 evaluate
 jiwer
 tqdm
@@ -21,3 +21,5 @@ librosa
 opencv-python
 ipywidgets
 torchcodec
+bitsandbytes
+accelerate
