@@ -2,6 +2,7 @@ pip uninstall torch torchvision torchaudio -y
 
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu128
 
+pip install --upgrade torch torchaudio --index-url https://download.pytorch.org/whl/cu128
 
 # install for window envirorment used at least driver
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu130

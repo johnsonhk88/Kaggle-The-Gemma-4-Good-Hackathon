@@ -7,6 +7,9 @@
 
 .ipynb_checkpoints/
 
+mlflow.db
+src/unsloth_compiled_cache/
+
 # Node artifact files
 node_modules/
 dist/
